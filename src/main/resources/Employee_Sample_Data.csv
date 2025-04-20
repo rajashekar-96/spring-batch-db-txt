@@ -1,0 +1,1001 @@
+EmployeeId,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age
+E02387,Emily Davis,Sr. Manger,IT,Research & Development,Female,Black,55
+E04105,Theodore Dinh,Technical Architect,IT,Manufacturing,Male,Asian,59
+E02572,Luna Sanders,Director,Finance,Speciality Products,Female,Caucasian,50
+E02832,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26
+E01639,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male,Asian,55
+E00644,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian,57
+E01550,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27
+E04332,Luke Martin,Analyst,Finance,Manufacturing,Male,Black,25
+E04533,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29
+E03838,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34
+E00591,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36
+E03344,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27
+E00530,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59
+E04239,Everleigh Ng,Sr. Manger,Finance,Research & Development,Female,Asian,51
+E03496,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31
+E00549,Isabella Xi,Vice President,Marketing,Research & Development,Female,Asian,41
+E00163,Bella Powell,Director,Finance,Research & Development,Female,Black,65
+E00884,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female,Latino,64
+E04116,David Barnes,Director,IT,Corporate,Male,Caucasian,64
+E04625,Adam Dang,Director,Sales,Research & Development,Male,Asian,45
+E03680,Elias Alvarado,Sr. Manger,IT,Manufacturing,Male,Latino,56
+E04732,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36
+E03484,Logan Rivera,Director,IT,Research & Development,Male,Latino,59
+E00671,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37
+E02071,Mateo Her,Vice President,Sales,Speciality Products,Male,Asian,44
+E02206,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41
+E04545,Abigail Mejia,Quality Engineer,Engineering,Corporate,Female,Latino,56
+E00154,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43
+E03343,Carson Lu,Engineering Manager,Engineering,Speciality Products,Male,Asian,64
+E00304,Dylan Choi,Vice President,IT,Corporate,Male,Asian,63
+E02594,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian,28
+E00402,Dominic Guzman,Analyst,Finance,Manufacturing,Male,Latino,65
+E01994,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61
+E03549,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian,30
+E03247,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27
+E02074,Nora Brown,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32
+E04152,Adeline Huang,Controls Engineer,Engineering,Manufacturing,Female,Asian,34
+E01628,Jackson Perry,Vice President,Marketing,Research & Development,Male,Caucasian,27
+E04285,Riley Padilla,Technical Architect,IT,Manufacturing,Female,Latino,35
+E01417,Leah Pena,Enterprise Architect,IT,Corporate,Female,Latino,57
+E01754,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30
+E03749,Kennedy Foster,Manager,Marketing,Speciality Products,Female,Caucasian,53
+E03574,John Moore,Vice President,IT,Speciality Products,Male,Caucasian,52
+E04600,William Vu,Account Representative,Sales,Speciality Products,Male,Asian,37
+E00586,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female,Caucasian,29
+E03538,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male,Caucasian,40
+E02185,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male,Latino,32
+E03830,Eva Coleman,Director,IT,Research & Development,Female,Black,37
+E03720,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52
+E03025,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45
+E04917,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64
+E00415,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black,27
+E02862,Peyton Huang,Sr. Manger,IT,Manufacturing,Female,Asian,25
+E04207,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino,35
+E02139,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36
+E01797,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33
+E01839,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52
+E01633,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46
+E01848,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black,46
+E00716,John Chow,Sr. Manger,Marketing,Research & Development,Male,Asian,45
+E00699,Ava Ayala,Sr. Manger,IT,Corporate,Female,Latino,55
+E00502,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44
+E04000,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44
+E02112,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45
+E03824,Penelope Coleman,Analyst,Finance,Corporate,Female,Black,36
+E03906,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38
+E00436,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41
+E04798,Aurora Ali,Manager,Marketing,Research & Development,Female,Asian,30
+E01249,Penelope Guerrero,Vice President,IT,Speciality Products,Female,Latino,43
+E03349,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32
+E02966,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58
+E01499,Jade Rojas,Director,Finance,Speciality Products,Female,Latino,37
+E00105,Isla Espinoza,Manager,Accounting,Speciality Products,Female,Latino,38
+E00665,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55
+E00791,Thomas Padilla,Vice President,Marketing,Research & Development,Male,Latino,57
+E01540,Miles Salazar,IT Coordinator,IT,Manufacturing,Male,Latino,36
+E04474,Mila Hong,Test Engineer,Engineering,Research & Development,Female,Asian,30
+E03417,Benjamin Moua,Computer Systems Manager,IT,Manufacturing,Male,Asian,40
+E00254,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino,34
+E02166,John Soto,Sr. Manger,Finance,Manufacturing,Male,Latino,60
+E00935,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black,41
+E01525,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53
+E00386,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45
+E00416,Everleigh Fernandez,Director,Engineering,Research & Development,Female,Latino,30
+E03383,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26
+E01516,Willow Mai,Business Partner,Human Resources,Manufacturing,Female,Asian,45
+E01234,Jack Cheng,Director,Human Resources,Manufacturing,Male,Asian,42
+E03440,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41
+E00431,Eliza Hernandez,Network Architect,IT,Corporate,Female,Latino,48
+E01258,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29
+E00440,Jack Huynh,Manager,Marketing,Research & Development,Male,Asian,27
+E00595,Everly Chow,Sr. Manger,Finance,Speciality Products,Female,Asian,33
+E00972,Amelia Salazar,Analyst II,Finance,Corporate,Female,Latino,26
+E04562,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31
+E02802,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53
+E01427,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34
+E04568,Rylee Yu,Vice President,Finance,Speciality Products,Female,Asian,54
+E04931,Zoe Romero,Network Architect,IT,Manufacturing,Female,Latino,32
+E00443,Nolan Bui,Computer Systems Manager,IT,Research & Development,Male,Asian,28
+E03890,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31
+E01194,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45
+E02875,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female,Asian,48
+E04959,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56
+E03816,Leilani Chow,Director,Human Resources,Corporate,Female,Asian,27
+E01261,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55
+E03612,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male,Black,64
+E01388,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50
+E03875,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51
+E04413,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36
+E00691,Ezekiel Desai,Director,Finance,Research & Development,Male,Asian,42
+E03047,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,Female,Asian,41
+E04903,Skylar Liu,Director,IT,Research & Development,Female,Asian,29
+E04735,Nova Coleman,System Administrator ,IT,Manufacturing,Female,Caucasian,44
+E02850,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41
+E03583,Brooks Marquez,Vice President,Sales,Corporate,Male,Latino,61
+E02017,Connor Joseph,Director,Human Resources,Corporate,Male,Caucasian,50
+E01642,Mia Lam,Sr. Manger,IT,Manufacturing,Female,Asian,49
+E04379,Scarlett Rodriguez,Sr. Analyst,Finance,Manufacturing,Female,Latino,60
+E04131,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female,Latino,42
+E02872,Liam Jung,Manager,Finance,Corporate,Male,Asian,39
+E02331,Sophia Huynh,Enterprise Architect,IT,Manufacturing,Female,Asian,55
+E00417,Athena Carrillo,Analyst II,Finance,Speciality Products,Female,Latino,39
+E04267,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28
+E03061,Vivian Lewis,Manager,Marketing,Manufacturing,Female,Caucasian,65
+E00013,Elena Vang,Analyst,Finance,Corporate,Female,Asian,52
+E04265,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female,Latino,62
+E04769,Mila Leung,Sr. Analyst,Marketing,Corporate,Female,Asian,39
+E03042,Ava Nelson,Systems Analyst,IT,Manufacturing,Female,Caucasian,63
+E00527,Mateo Chu,Field Engineer,Engineering,Speciality Products,Male,Asian,27
+E01095,Isla Lai,Vice President,Finance,Corporate,Female,Asian,37
+E03131,Ezekiel Reed,Sr. Manger,IT,Manufacturing,Male,Caucasian,37
+E01713,Nolan Guzman,Field Engineer,Engineering,Speciality Products,Male,Latino,46
+E00128,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female,Latino,54
+E03849,Evelyn Jung,Analyst,Sales,Research & Development,Female,Asian,30
+E02464,Sophie Silva,Vice President,Engineering,Corporate,Female,Latino,28
+E00306,Mateo Williams,Enterprise Architect,IT,Manufacturing,Male,Caucasian,40
+E03737,Kennedy Rahman,Vice President,Human Resources,Manufacturing,Female,Asian,49
+E02783,Levi Mendez,Vice President,Sales,Research & Development,Male,Latino,39
+E02939,Julian Fong,Quality Engineer,Engineering,Speciality Products,Male,Asian,61
+E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46
+E00170,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35
+E01425,Anthony Rogers,Vice President,Engineering,Corporate,Male,Caucasian,33
+E00130,Paisley Kang,Vice President,Human Resources,Corporate,Female,Asian,61
+E02094,Matthew Gupta,Network Engineer,IT,Speciality Products,Male,Asian,45
+E03567,Silas Chavez,Technical Architect,IT,Research & Development,Male,Latino,51
+E04682,Colton Thao,Manager,Human Resources,Manufacturing,Male,Asian,55
+E00957,Genesis Perry,Sr. Manger,Sales,Corporate,Female,Caucasian,46
+E04458,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30
+E01499,Elias Zhang,Solutions Architect,IT,Research & Development,Male,Asian,54
+E00521,Lily Carter,Network Architect,IT,Research & Development,Female,Caucasian,54
+E03717,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,Male,Latino,45
+E01533,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,49
+E04449,Miles Hsu,Analyst II,Finance,Research & Development,Male,Asian,55
+E02855,Piper Cheng,Enterprise Architect,IT,Manufacturing,Female,Asian,62
+E00816,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian,28
+E02283,Jaxon Park,Network Architect,IT,Manufacturing,Male,Asian,33
+E04888,Elijah Henry,Manager,IT,Corporate,Male,Caucasian,32
+E03907,Camila Watson,Vice President,Finance,Speciality Products,Female,Caucasian,32
+E02166,Lucas Thomas,Manager,Accounting,Research & Development,Male,Caucasian,55
+E00431,Skylar Doan,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,58
+E01501,Hudson Liu,Engineering Manager,Engineering,Speciality Products,Male,Asian,34
+E01141,Gianna Williams,Quality Engineer,Engineering,Research & Development,Female,Black,27
+E02254,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,Male,Latino,61
+E04504,Jameson Alvarado,Enterprise Architect,IT,Manufacturing,Male,Latino,47
+E03394,Joseph Ly,Vice President,Marketing,Speciality Products,Male,Asian,40
+E02942,Daniel Richardson,Director,Engineering,Speciality Products,Male,Caucasian,30
+E04130,Elias Figueroa,Sr. Manger,Finance,Corporate,Male,Latino,45
+E02848,Emma Brooks,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30
+E00085,Isla Wong,Vice President,Accounting,Corporate,Female,Asian,56
+E03956,Everly Walker,Sr. Manger,Sales,Research & Development,Female,Caucasian,62
+E00672,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45
+E04618,Mason Zhao,Technical Architect,IT,Research & Development,Male,Asian,46
+E03506,Jaxson Mai,Vice President,Human Resources,Research & Development,Male,Asian,48
+E00568,Ava Garza,Director,Accounting,Manufacturing,Female,Latino,27
+E00535,Nathan Mendez,Manager,IT,Speciality Products,Male,Latino,53
+E04630,Maria Griffin,Manager,Marketing,Manufacturing,Female,Caucasian,59
+E00874,Alexander Choi,Manager,Marketing,Research & Development,Male,Asian,55
+E01546,Maria Hong,Vice President,Finance,Speciality Products,Female,Asian,43
+E00941,Sophie Ali,Analyst,Finance,Manufacturing,Female,Asian,55
+E03446,Julian Ross,Manager,Marketing,Research & Development,Male,Caucasian,51
+E01361,Emma Hill,IT Coordinator,IT,Manufacturing,Female,Caucasian,54
+E01631,Leilani Yee,Sr. Analyst,Marketing,Speciality Products,Female,Asian,47
+E03719,Jack Brown,Analyst,Marketing,Corporate,Male,Caucasian,55
+E03269,Charlotte Chu,Network Engineer,IT,Manufacturing,Female,Asian,50
+E01037,Jeremiah Chu,IT Systems Architect,IT,Research & Development,Male,Asian,31
+E00671,Miles Cho,Systems Analyst,IT,Speciality Products,Male,Asian,47
+E02216,Caleb Marquez,IT Systems Architect,IT,Research & Development,Male,Latino,29
+E02803,Eli Soto,Analyst,Marketing,Speciality Products,Male,Latino,38
+E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29
+E02489,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33
+E03189,Asher Jackson,Sr. Manger,Sales,Speciality Products,Male,Caucasian,50
+E03560,Ayla Ng,Account Representative,Sales,Manufacturing,Female,Asian,46
+E00769,Jose Kang,Engineering Manager,Engineering,Corporate,Male,Asian,57
+E02791,Aubrey Romero,Director,Sales,Corporate,Female,Latino,49
+E02333,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,Male,Black,54
+E01002,Elias Ali,Manager,Sales,Corporate,Male,Asian,28
+E03520,Nolan Pena,Analyst,Marketing,Manufacturing,Male,Latino,30
+E00752,Luna Liu,Vice President,Sales,Manufacturing,Female,Asian,36
+E00233,Brooklyn Reyes,Service Desk Analyst,IT,Manufacturing,Female,Latino,36
+E02639,Hadley Parker,Vice President,Marketing,Corporate,Female,Black,30
+E00697,Jonathan Chavez,System Administrator ,IT,Manufacturing,Male,Latino,29
+E02183,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino,47
+E00715,Elijah Kang,Vice President,Engineering,Manufacturing,Male,Asian,35
+E04288,Ella White,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25
+E02421,Jordan Truong,Director,Engineering,Speciality Products,Male,Asian,45
+E00523,Daniel Jordan,Network Administrator,IT,Corporate,Male,Caucasian,58
+E03615,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51
+E02761,Luca Duong,Manager,Human Resources,Research & Development,Male,Asian,48
+E02121,Levi Brown,Sr. Analyst,Sales,Corporate,Male,Black,36
+E01486,Mason Cho,Vice President,Accounting,Research & Development,Male,Asian,59
+E00725,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino,45
+E03027,Elijah Watson,Sr. Manger,Sales,Manufacturing,Male,Caucasian,29
+E03689,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62
+E01986,Wesley Sharma,Manager,IT,Corporate,Male,Asian,51
+E01286,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47
+E01409,Jose Molina,Controls Engineer,Engineering,Manufacturing,Male,Latino,40
+E00626,Luna Simmons,Sr. Analyst,Finance,Corporate,Female,Caucasian,28
+E04342,Samantha Barnes,Vice President,Marketing,Speciality Products,Female,Caucasian,29
+E03904,Hunter Ortiz,Sr. Analyst,Finance,Corporate,Male,Latino,46
+E01291,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45
+E00917,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30
+E01484,Anna Zhu,Service Desk Analyst,IT,Manufacturing,Female,Asian,48
+E03864,Ella Hunter,Analyst,Finance,Manufacturing,Female,Caucasian,51
+E00488,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28
+E02227,Sofia Parker,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36
+E04802,Lucy Fong,Sr. Account Representative,Sales,Corporate,Female,Asian,40
+E01970,Vivian Barnes,Director,Human Resources,Research & Development,Female,Caucasian,51
+E02813,Kai Chow,Engineering Manager,Engineering,Corporate,Male,Asian,45
+E02031,Melody Cooper,Development Engineer,Engineering,Research & Development,Female,Caucasian,44
+E03252,James Bui,Manager,Finance,Manufacturing,Male,Asian,64
+E04871,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30
+E03547,Owen Han,Analyst,Accounting,Corporate,Male,Asian,28
+E04742,Kinsley Vega,Vice President,Accounting,Corporate,Female,Latino,33
+E01070,Leonardo Martin,Manager,Finance,Speciality Products,Male,Black,51
+E04359,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25
+E03268,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42
+E04035,Penelope Johnson,Sr. Analyst,Marketing,Research & Development,Female,Caucasian,34
+E01221,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino,48
+E00276,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,Male,Caucasian,33
+E01687,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41
+E02844,Charles Diaz,Sr. Manger,Sales,Corporate,Male,Latino,55
+E01263,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino,36
+E00119,Jack Maldonado,Director,Engineering,Research & Development,Male,Latino,31
+E03935,Cora Jiang,Vice President,IT,Corporate,Female,Asian,53
+E00742,Cooper Mitchell,Manager,Sales,Speciality Products,Male,Caucasian,43
+E02810,Layla Torres,Sr. Manger,Finance,Manufacturing,Female,Latino,37
+E01860,Jack Edwards,Manager,Marketing,Manufacturing,Male,Caucasian,38
+E04890,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,Female,Asian,49
+E02285,Aria Xi,Director,Sales,Research & Development,Female,Asian,45
+E00842,John Vega,Vice President,Finance,Corporate,Male,Latino,50
+E01271,Luke Munoz,Director,Engineering,Speciality Products,Male,Latino,64
+E01921,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,Female,Caucasian,55
+E03664,Aria Castro,Engineering Manager,Engineering,Speciality Products,Female,Latino,45
+E00813,Autumn Joseph,Enterprise Architect,IT,Corporate,Female,Black,39
+E00870,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,Female,Asian,40
+E04167,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48
+E00245,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64
+E00976,Zoe Rodriguez,Director,Human Resources,Speciality Products,Female,Latino,65
+E04112,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian,43
+E01807,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50
+E04103,Isabella Soto,Vice President,Finance,Corporate,Female,Latino,27
+E01412,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,Female,Black,55
+E04386,Cameron Powell,Business Partner,Human Resources,Manufacturing,Male,Black,41
+E01232,Samantha Foster,Vice President,Human Resources,Research & Development,Female,Black,34
+E04572,Jade Li,Director,IT,Speciality Products,Female,Asian,47
+E02747,Kinsley Acosta,Vice President,IT,Speciality Products,Female,Latino,32
+E01064,Clara Kang,Sr. Manger,IT,Manufacturing,Female,Asian,39
+E00178,Harper Alexander,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26
+E01091,Carter Reed,Development Engineer,Engineering,Manufacturing,Male,Black,40
+E01525,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,Female,Latino,32
+E01309,Everleigh Jiang,Director,Accounting,Research & Development,Female,Asian,58
+E02378,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian,58
+E04127,Emery Acosta,Vice President,Sales,Research & Development,Female,Latino,42
+E02072,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26
+E02555,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38
+E00187,Miles Mehta,Director,Finance,Research & Development,Male,Asian,64
+E04332,Ezra Simmons,Automation Engineer,Engineering,Speciality Products,Male,Caucasian,38
+E02062,Nora Santiago,Analyst,Accounting,Research & Development,Female,Latino,55
+E00034,Caroline Herrera,Sr. Manger,Marketing,Manufacturing,Female,Latino,45
+E00273,David Owens,Sr. Analyst,Sales,Corporate,Male,Black,43
+E00691,Avery Yee,Systems Analyst,IT,Manufacturing,Female,Asian,34
+E01403,Xavier Park,Vice President,IT,Research & Development,Male,Asian,40
+E03438,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52
+E04136,Mason Cao,Analyst II,Finance,Corporate,Male,Asian,52
+E02944,Joshua Fong,Vice President,Engineering,Speciality Products,Male,Asian,47
+E03300,Maria Chin,Analyst,Marketing,Manufacturing,Female,Asian,65
+E00078,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31
+E00825,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino,41
+E04972,Logan Bryant,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,30
+E03941,Isla Han,Technical Architect,IT,Manufacturing,Female,Asian,58
+E02148,Christopher Vega,Engineering Manager,Engineering,Research & Development,Male,Latino,54
+E02252,Lillian Park,Analyst,Marketing,Research & Development,Female,Asian,40
+E03096,Kennedy Zhang,Director,Finance,Research & Development,Female,Asian,63
+E04800,Eli Han,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40
+E02838,Julia Pham,Engineering Manager,Engineering,Speciality Products,Female,Asian,65
+E02980,Hailey Shin,Director,Human Resources,Corporate,Female,Asian,57
+E04477,Connor Grant,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27
+E04348,Natalia Owens,Manager,Human Resources,Manufacturing,Female,Caucasian,31
+E01638,Maria He,IT Systems Architect,IT,Corporate,Female,Asian,45
+E03419,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian,47
+E04222,Quinn Xiong,Test Engineer,Engineering,Research & Development,Female,Asian,55
+E04126,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51
+E01896,Adam Nelson,Director,Finance,Speciality Products,Male,Caucasian,25
+E03018,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian,37
+E03325,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62
+E04037,Roman Martinez,Sr. Manger,Finance,Research & Development,Male,Latino,31
+E01902,Eleanor Li,Sr. Manger,Human Resources,Research & Development,Female,Asian,64
+E01466,Connor Vang,Analyst,Sales,Speciality Products,Male,Asian,25
+E02038,Ellie Chung,Sr. Manger,Marketing,Corporate,Female,Asian,59
+E03474,Violet Hall,Solutions Architect,IT,Corporate,Female,Caucasian,40
+E02744,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31
+E00702,Nathan Pham,Sr. Manger,Accounting,Manufacturing,Male,Asian,45
+E03081,Ayla Brown,Sr. Manger,Sales,Manufacturing,Female,Caucasian,49
+E01281,Isaac Mitchell,Network Architect,IT,Speciality Products,Male,Black,46
+E04029,Jayden Jimenez,Manager,Human Resources,Corporate,Male,Latino,46
+E01116,Jaxon Tran,Sr. Manger,Sales,Manufacturing,Male,Asian,45
+E01753,Connor Fong,Manager,Accounting,Speciality Products,Male,Asian,40
+E04072,Emery Mitchell,Vice President,Finance,Manufacturing,Female,Caucasian,48
+E00672,Landon Luu,Vice President,IT,Research & Development,Male,Asian,31
+E04419,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,Female,Asian,30
+E00467,Sofia Dinh,Operations Engineer,Engineering,Corporate,Female,Asian,55
+E00365,Jonathan Patel,Manager,Marketing,Corporate,Male,Asian,28
+E00306,Piper Patterson,Quality Engineer,Engineering,Corporate,Female,Caucasian,45
+E03292,Cora Evans,Computer Systems Manager,IT,Speciality Products,Female,Black,45
+E04779,Cameron Young,Vice President,Engineering,Manufacturing,Male,Caucasian,63
+E00501,Melody Ho,Analyst II,Finance,Research & Development,Female,Asian,55
+E01132,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black,47
+E00556,Grayson Walker,Director,Accounting,Manufacturing,Male,Caucasian,29
+E00311,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino,34
+E04567,Madeline Hoang,Systems Analyst,IT,Research & Development,Female,Asian,28
+E04378,Ezra Simmons,Network Administrator,IT,Manufacturing,Male,Black,31
+E03251,Ruby Medina,Director,Sales,Manufacturing,Female,Latino,50
+E03167,Luke Zheng,Director,Human Resources,Speciality Products,Male,Asian,39
+E03347,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian,35
+E03908,Miles Evans,Network Architect,IT,Manufacturing,Male,Caucasian,54
+E01351,Leo Owens,Systems Analyst,IT,Corporate,Male,Caucasian,47
+E02681,Caroline Owens,Director,IT,Speciality Products,Female,Caucasian,26
+E03807,Kennedy Do,Computer Systems Manager,IT,Manufacturing,Female,Asian,42
+E00422,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino,47
+E00265,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,Female,Latino,60
+E04601,Allison Ayala,Analyst,Finance,Corporate,Female,Latino,36
+E04816,Jace Zhang,Service Desk Analyst,IT,Speciality Products,Male,Asian,31
+E02147,Allison Medina,Manager,Finance,Speciality Products,Female,Latino,55
+E02914,Maria Wilson,Vice President,Engineering,Research & Development,Female,Caucasian,51
+E03268,Everly Coleman,Vice President,IT,Corporate,Female,Caucasian,48
+E03972,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,Male,Latino,58
+E02189,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino,29
+E04290,Hannah Gomez,Technical Architect,IT,Manufacturing,Female,Latino,25
+E03630,Jacob Davis,Director,Accounting,Research & Development,Male,Caucasian,36
+E00432,Eli Gupta,Director,Human Resources,Research & Development,Male,Asian,37
+E03045,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian,57
+E01924,Anna Gutierrez,Director,Engineering,Research & Development,Female,Latino,59
+E04877,Samuel Vega,Analyst II,Marketing,Speciality Products,Male,Latino,37
+E02770,Liliana Do,Service Desk Analyst,IT,Manufacturing,Female,Asian,30
+E04590,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49
+E01977,Raelynn Gupta,Sr. Manger,Finance,Corporate,Female,Asian,48
+E01378,Genesis Xiong,System Administrator ,IT,Research & Development,Female,Asian,51
+E04224,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56
+E03423,Santiago f Gonzalez,Manager,Sales,Research & Development,Male,Latino,36
+E01584,Henry Zhu,Vice President,Marketing,Speciality Products,Male,Asian,38
+E00788,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino,56
+E00207,Hailey Lai,Vice President,Human Resources,Manufacturing,Female,Asian,52
+E00834,Vivian Guzman,Analyst II,Finance,Speciality Products,Female,Latino,53
+E04571,Hadley Contreras,Director,Engineering,Corporate,Female,Latino,60
+E02652,Nathan Sun,Manager,Accounting,Speciality Products,Male,Asian,63
+E02693,Grace Campos,Director,Engineering,Research & Development,Female,Latino,37
+E03359,Autumn Ortiz,Field Engineer,Engineering,Research & Development,Female,Latino,30
+E00399,Connor Walker,Analyst II,Finance,Manufacturing,Male,Caucasian,30
+E02971,Mia Wu,Enterprise Architect,IT,Corporate,Female,Asian,45
+E03327,Julia Luong,Sr. Manger,Accounting,Research & Development,Female,Asian,55
+E00900,Eleanor Delgado,Sr. Analyst,Marketing,Manufacturing,Female,Latino,33
+E00836,Addison Roberts,Network Architect,IT,Manufacturing,Female,Caucasian,65
+E03854,Camila Li,Sr. Manger,IT,Research & Development,Female,Asian,60
+E04729,Ezekiel Fong,Vice President,Sales,Research & Development,Male,Asian,56
+E00360,Dylan Thao,Director,Engineering,Manufacturing,Male,Asian,53
+E02284,Josephine Salazar,Field Engineer,Engineering,Speciality Products,Female,Latino,36
+E00181,Genesis Hu,Sr. Analyst,Marketing,Corporate,Female,Asian,46
+E04168,Mila Juarez,Manager,Sales,Speciality Products,Female,Latino,38
+E02861,Daniel Perry,Enterprise Architect,IT,Research & Development,Male,Caucasian,62
+E01357,Paisley Hunter,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61
+E04387,Everleigh White,Network Architect,IT,Speciality Products,Female,Caucasian,59
+E03090,Penelope Choi,Technical Architect,IT,Speciality Products,Female,Asian,49
+E03591,Piper Sun,Director,Marketing,Manufacturing,Female,Asian,64
+E03328,Lucy Johnson,Manager,IT,Research & Development,Female,Caucasian,57
+E04937,Ian Ngo,Manager,Sales,Speciality Products,Male,Asian,52
+E00515,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,Male,Latino,40
+E01241,Hadley Guerrero,Sr. Manger,IT,Research & Development,Female,Latino,49
+E03255,Jose Brown,System Administrator ,IT,Speciality Products,Male,Caucasian,43
+E01711,Benjamin Ford,Analyst II,Finance,Speciality Products,Male,Caucasian,31
+E00500,Henry Shah,Director,Accounting,Manufacturing,Male,Asian,55
+E04972,Ivy Daniels,Sr. Manger,Human Resources,Speciality Products,Female,Caucasian,41
+E02728,Thomas Chang,Sr. Analyst,Accounting,Research & Development,Male,Asian,34
+E04749,Caroline Phan,Sr. Manger,Finance,Corporate,Female,Asian,41
+E02023,Maverick Mehta,Systems Analyst,IT,Manufacturing,Male,Asian,40
+E03166,Austin Edwards,IT Coordinator,IT,Manufacturing,Male,Black,42
+E02599,Daniel Huang,Vice President,Human Resources,Corporate,Male,Asian,31
+E01014,Lucas Phan,Director,Marketing,Research & Development,Male,Asian,49
+E04529,Gabriel Yu,Technical Architect,IT,Speciality Products,Male,Asian,42
+E00085,Mason Watson,Sr. Manger,IT,Corporate,Male,Caucasian,46
+E00632,Angel Chang,Network Architect,IT,Research & Development,Male,Asian,37
+E02108,Madeline Coleman,Sr. Manger,Finance,Research & Development,Female,Caucasian,51
+E03802,Thomas Vazquez,Director,Engineering,Corporate,Male,Latino,46
+E03685,Silas Hunter,Solutions Architect,IT,Corporate,Male,Black,55
+E01089,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian,43
+E03988,Dominic Thomas,Analyst II,Marketing,Manufacturing,Male,Caucasian,48
+E00401,Wesley Adams,System Administrator ,IT,Corporate,Male,Caucasian,48
+E03429,Ian Wu,Sr. Analyst,Marketing,Manufacturing,Male,Asian,51
+E02417,Alice Young,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46
+E00359,Logan Carrillo,Sr. Analyst,Marketing,Research & Development,Male,Latino,33
+E02044,Caroline Alexander,Business Partner,Human Resources,Manufacturing,Female,Black,42
+E01479,Serenity Bailey,IT Systems Architect,IT,Manufacturing,Female,Caucasian,55
+E04962,Elena Tan,Vice President,Engineering,Manufacturing,Female,Asian,50
+E02769,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian,26
+E03893,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55
+E00553,Isla Yoon,Quality Engineer,Engineering,Research & Development,Female,Asian,50
+E03540,Emma Perry,Solutions Architect,IT,Manufacturing,Female,Caucasian,28
+E02769,Riley Marquez,Sr. Manger,Finance,Research & Development,Female,Latino,39
+E03277,Caroline Hu,Sr. Manger,Marketing,Speciality Products,Female,Asian,31
+E04194,Madison Kumar,Director,Accounting,Speciality Products,Female,Asian,55
+E01807,Matthew Lim,Sr. Analyst,Sales,Research & Development,Male,Asian,52
+E01762,Maya Ngo,Manager,Sales,Speciality Products,Female,Asian,55
+E02632,Alice Soto,Analyst,Accounting,Corporate,Female,Latino,56
+E04226,Andrew Moore,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47
+E04101,Olivia Harris,Director,Sales,Speciality Products,Female,Caucasian,63
+E01981,Genesis Banks,Analyst,Finance,Corporate,Female,Caucasian,63
+E02534,Victoria Johnson,Sr. Manger,Accounting,Corporate,Female,Caucasian,55
+E01238,Eloise Griffin,Director,Sales,Manufacturing,Female,Caucasian,55
+E01118,Roman Yang,Manager,Human Resources,Manufacturing,Male,Asian,42
+E04041,Clara Huynh,IT Coordinator,IT,Speciality Products,Female,Asian,39
+E04308,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino,35
+E01052,Jaxson Dinh,Sr. Manger,Marketing,Research & Development,Male,Asian,45
+E04165,Sophie Vang,Sr. Manger,Marketing,Manufacturing,Female,Asian,25
+E02295,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian,47
+E04546,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42
+E04217,Lydia Williams,System Administrator ,IT,Manufacturing,Female,Black,35
+E00650,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian,45
+E00344,Savannah He,Director,IT,Research & Development,Female,Asian,52
+E04645,Elias Ahmed,Vice President,Marketing,Corporate,Male,Asian,57
+E03880,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian,56
+E02730,Axel Soto,Quality Engineer,Engineering,Corporate,Male,Latino,46
+E04517,Amelia Choi,Manager,Marketing,Speciality Products,Female,Asian,43
+E00965,Jacob Khan,Computer Systems Manager,IT,Speciality Products,Male,Asian,53
+E04639,Luna Taylor,Network Administrator,IT,Manufacturing,Female,Caucasian,47
+E00465,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62
+E03058,Angel Xiong,Vice President,IT,Research & Development,Male,Asian,35
+E02337,Emma Cao,Analyst,Accounting,Corporate,Female,Asian,27
+E04927,Ezekiel Bryant,Sr. Analyst,Finance,Manufacturing,Male,Caucasian,55
+E03799,Natalie Hwang,Sr. Analyst,Finance,Speciality Products,Female,Asian,63
+E04538,Adeline Yang,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53
+E02633,Allison Roberts,Vice President,Sales,Manufacturing,Female,Black,54
+E02965,Andrew Do,Sr. Manger,Finance,Research & Development,Male,Asian,43
+E04345,Eliana Grant,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64
+E02895,Mila Soto,Director,Finance,Research & Development,Female,Latino,65
+E01132,Gabriella Johnson,Computer Systems Manager,IT,Research & Development,Female,Caucasian,42
+E00758,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian,35
+E03750,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64
+E00144,Theodore Ngo,Controls Engineer,Engineering,Research & Development,Male,Asian,55
+E02943,Bella Lopez,Sr. Analyst,Marketing,Corporate,Female,Latino,32
+E03901,Luca Truong,Director,Marketing,Corporate,Male,Asian,45
+E03461,Nathan Lau,Business Partner,Human Resources,Research & Development,Male,Asian,35
+E03490,Henry Campos,Sr. Manger,Human Resources,Corporate,Male,Latino,38
+E04466,Connor Bell,Network Administrator,IT,Corporate,Male,Black,54
+E03226,Angel Stewart,Vice President,Finance,Corporate,Male,Caucasian,28
+E04607,Landon Brown,Vice President,Marketing,Corporate,Male,Caucasian,26
+E02678,Nicholas Rivera,Director,Engineering,Corporate,Male,Latino,45
+E02190,Gabriel Carter,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57
+E00747,Leilani Baker,Technical Architect,IT,Speciality Products,Female,Caucasian,59
+E00268,Ian Flores,Director,Engineering,Corporate,Male,Latino,48
+E01416,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black,30
+E01524,Ian Miller,Computer Systems Manager,IT,Corporate,Male,Black,31
+E03849,Harper Chin,Quality Engineer,Engineering,Manufacturing,Female,Asian,50
+E02801,Santiago f Brooks,Sr. Manger,Sales,Corporate,Male,Black,51
+E04155,Dylan Dominguez,Sr. Analyst,Marketing,Research & Development,Male,Latino,42
+E01952,Everett Lee,Network Administrator,IT,Research & Development,Male,Asian,45
+E00116,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian,64
+E04811,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino,59
+E00624,William Watson,Director,Accounting,Speciality Products,Male,Caucasian,41
+E03404,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42
+E01845,Leo Fernandez,Manager,Finance,Research & Development,Male,Latino,54
+E04784,Joshua Lin,Technical Architect,IT,Research & Development,Male,Asian,37
+E00145,Alexander Rivera,Sr. Analyst,Sales,Research & Development,Male,Latino,58
+E00218,David Desai,Vice President,Sales,Speciality Products,Male,Asian,47
+E02185,Aubrey Yoon,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,60
+E01070,Grayson Brown,Vice President,IT,Corporate,Male,Caucasian,38
+E03807,Noah Chen,Sr. Manger,Marketing,Manufacturing,Male,Asian,63
+E00784,Ella Nguyen,Service Desk Analyst,IT,Corporate,Female,Asian,60
+E04925,Athena Jordan,System Administrator ,IT,Manufacturing,Female,Black,42
+E04448,Adrian Ruiz,Sr. Analyst,Finance,Corporate,Male,Latino,34
+E04817,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,Female,Latino,53
+E00325,Jameson Chen,Vice President,Marketing,Research & Development,Male,Asian,39
+E00403,Liliana Soto,Business Partner,Human Resources,Manufacturing,Female,Latino,58
+E00436,Lincoln Reyes,Computer Systems Manager,IT,Manufacturing,Male,Latino,60
+E04358,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino,34
+E04662,Julia Morris,Sr. Manger,Human Resources,Corporate,Female,Caucasian,60
+E01496,Ava Ortiz,Enterprise Architect,IT,Manufacturing,Female,Latino,53
+E01870,Carson Chau,Director,Finance,Corporate,Male,Asian,58
+E03971,Lillian Chen,Sr. Manger,Marketing,Research & Development,Female,Asian,25
+E03616,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46
+E00153,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39
+E02313,Jeremiah Lu,Network Architect,IT,Manufacturing,Male,Asian,50
+E02960,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56
+E00096,Peyton Cruz,Development Engineer,Engineering,Manufacturing,Female,Latino,30
+E02140,Naomi Zhao,Vice President,Human Resources,Speciality Products,Female,Asian,45
+E00826,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian,55
+E03881,Andrew Reed,System Administrator ,IT,Corporate,Male,Black,28
+E02604,Brooklyn Collins,Sr. Manger,Finance,Corporate,Female,Black,59
+E02613,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63
+E00864,Samantha Aguilar,Manager,Accounting,Speciality Products,Female,Latino,46
+E01760,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26
+E03223,Ethan Joseph,IT Coordinator,IT,Research & Development,Male,Caucasian,45
+E01262,Miles Mehta,Manager,Finance,Manufacturing,Male,Asian,50
+E01075,Joshua Juarez,Analyst II,Finance,Manufacturing,Male,Latino,46
+E00364,Matthew Howard,Director,Human Resources,Manufacturing,Male,Caucasian,50
+E04108,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,Female,Latino,33
+E02917,Everett Morales,Solutions Architect,IT,Speciality Products,Male,Latino,57
+E03720,Genesis Hunter,Manager,Finance,Corporate,Female,Caucasian,48
+E03393,Henry Figueroa,Sr. Manger,Finance,Manufacturing,Male,Latino,46
+E02977,Nicholas Song,Analyst II,Marketing,Manufacturing,Male,Asian,52
+E03371,Jack Alexander,Vice President,IT,Manufacturing,Male,Caucasian,56
+E02531,Jameson Foster,Analyst,Marketing,Manufacturing,Male,Caucasian,28
+E02473,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,Male,Asian,29
+E02468,Ella Huang,Vice President,Marketing,Corporate,Female,Asian,45
+E01499,Liam Jordan,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28
+E03697,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28
+E00593,Luke Wilson,Solutions Architect,IT,Speciality Products,Male,Caucasian,34
+E01103,Lyla Alvarez,IT Systems Architect,IT,Research & Development,Female,Latino,55
+E03889,Caleb Flores,Manager,Human Resources,Manufacturing,Male,Latino,34
+E01958,Angel Lin,Network Administrator,IT,Manufacturing,Male,Asian,27
+E01870,Easton Moore,Computer Systems Manager,IT,Research & Development,Male,Caucasian,52
+E01167,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28
+E00099,Brooklyn Salazar,IT Systems Architect,IT,Manufacturing,Female,Latino,44
+E00044,Scarlett Jenkins,Vice President,IT,Research & Development,Female,Caucasian,53
+E00711,Melody Chin,Sr. Manger,Finance,Corporate,Female,Asian,43
+E04795,Eloise Alexander,Vice President,Human Resources,Corporate,Female,Black,28
+E03912,Carter Turner,Sr. Analyst,Marketing,Corporate,Male,Caucasian,33
+E02103,Andrew Ma,HRIS Analyst,Human Resources,Corporate,Male,Asian,31
+E04213,Hailey Xi,Manager,Accounting,Corporate,Female,Asian,52
+E04756,Aiden Le,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55
+E04114,Christopher Lim,Director,IT,Research & Development,Male,Asian,55
+E01423,James Castillo,Vice President,IT,Manufacturing,Male,Latino,51
+E03181,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian,60
+E03305,Hannah King,Manager,Accounting,Speciality Products,Female,Caucasian,31
+E00703,Wesley Dominguez,Engineering Manager,Engineering,Corporate,Male,Latino,45
+E04403,Dominic Hu,Manager,Accounting,Speciality Products,Male,Asian,34
+E00103,Nora Park,Director,Accounting,Speciality Products,Female,Asian,29
+E04487,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45
+E01194,Ella Jenkins,Analyst II,Finance,Speciality Products,Female,Caucasian,52
+E02179,Peyton Owens,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48
+E04242,Alice Lopez,Test Engineer,Engineering,Speciality Products,Female,Latino,48
+E01371,Dominic Le,Vice President,Marketing,Corporate,Male,Asian,41
+E03065,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,Male,Latino,41
+E01377,Grayson Luu,Quality Engineer,Engineering,Research & Development,Male,Asian,55
+E03097,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45
+E01668,Naomi Xi,Director,Finance,Corporate,Female,Asian,53
+E03354,Silas Estrada,IT Systems Architect,IT,Corporate,Male,Latino,49
+E02088,Skylar Ayala,Sr. Manger,Finance,Corporate,Female,Latino,55
+E03980,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian,45
+E00972,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,Female,Latino,52
+E00824,Everleigh Adams,Analyst II,Marketing,Manufacturing,Female,Caucasian,33
+E04359,Layla Salazar,Solutions Architect,IT,Corporate,Female,Latino,59
+E03113,Willow Chen,Manager,Accounting,Corporate,Female,Asian,50
+E01488,Penelope Griffin,Director,Sales,Manufacturing,Female,Caucasian,61
+E01787,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27
+E03550,Stella Wu,Sr. Manger,Marketing,Speciality Products,Female,Asian,35
+E01052,Parker Vang,Analyst,Sales,Corporate,Male,Asian,40
+E04799,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30
+E03402,Isaac Liu,Field Engineer,Engineering,Manufacturing,Male,Asian,60
+E04128,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55
+E00013,Raelynn Ma,Sr. Analyst,Finance,Speciality Products,Female,Asian,33
+E03114,Jameson Juarez,Development Engineer,Engineering,Speciality Products,Male,Latino,62
+E04004,Everleigh Shah,Test Engineer,Engineering,Research & Development,Female,Asian,36
+E04472,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black,35
+E00161,Ryan Ha,Vice President,Marketing,Corporate,Male,Asian,60
+E04417,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,Female,Latino,45
+E04536,Layla Scott,Sr. Manger,Accounting,Speciality Products,Female,Caucasian,48
+E02534,Leah Khan,Director,Marketing,Corporate,Female,Asian,36
+E02857,Mason Jimenez,Sr. Manger,Finance,Speciality Products,Male,Latino,44
+E03059,Hailey Dang,Manager,Marketing,Manufacturing,Female,Asian,64
+E02477,Amelia Bui,Director,Engineering,Speciality Products,Female,Asian,46
+E00022,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian,62
+E03370,Ian Cortez,Analyst II,Marketing,Research & Development,Male,Latino,61
+E00555,Christian Ali,Analyst II,Marketing,Research & Development,Male,Asian,65
+E03160,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,Male,Latino,54
+E03919,Grayson Chan,Engineering Manager,Engineering,Speciality Products,Male,Asian,46
+E01724,Nolan Molina,Computer Systems Manager,IT,Corporate,Male,Latino,36
+E04087,Adam Kaur,Manager,IT,Corporate,Male,Asian,60
+E02856,Amelia Kaur,Operations Engineer,Engineering,Research & Development,Female,Asian,30
+E03805,Autumn Gonzales,Analyst II,Sales,Corporate,Female,Latino,34
+E00319,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55
+E01090,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59
+E04323,Melody Valdez,Director,IT,Manufacturing,Female,Latino,28
+E02687,Caroline Nelson,Vice President,Finance,Corporate,Female,Caucasian,36
+E01407,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,Female,Latino,29
+E02748,Genesis Zhu,Director,Finance,Speciality Products,Female,Asian,34
+E01995,Jonathan Ho,Vice President,IT,Manufacturing,Male,Asian,37
+E01714,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44
+E04491,Nathan Chan,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45
+E01076,Sofia Vu,Sr. Manger,Human Resources,Research & Development,Female,Asian,52
+E04131,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian,40
+E02843,Lily Pena,Manager,Human Resources,Speciality Products,Female,Latino,55
+E03758,Liam Zhang,Director,Marketing,Research & Development,Male,Asian,29
+E02063,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32
+E00638,David Simmons,Manager,Marketing,Corporate,Male,Caucasian,51
+E03571,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28
+E01820,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black,27
+E01712,James Singh,Director,Marketing,Corporate,Male,Asian,45
+E00184,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino,58
+E02706,Lucy Figueroa,Sr. Manger,Finance,Research & Development,Female,Latino,45
+E02899,Joshua Cortez,Sr. Manger,Finance,Corporate,Male,Latino,44
+E02478,Alexander Morris,Manager,Sales,Speciality Products,Male,Caucasian,33
+E04170,Grayson Chin,Vice President,IT,Research & Development,Male,Asian,26
+E00929,Allison Espinoza,Solutions Architect,IT,Speciality Products,Female,Latino,45
+E00530,Naomi Chu,Sr. Manger,Sales,Manufacturing,Female,Asian,46
+E03824,Jameson Martin,Technical Architect,IT,Corporate,Male,Caucasian,37
+E02492,Sebastian Gupta,Sr. Analyst,Marketing,Corporate,Male,Asian,40
+E01733,Eloise Pham,Manager,Sales,Speciality Products,Female,Asian,45
+E02857,Valentina Davis,Analyst,Sales,Speciality Products,Female,Caucasian,33
+E04938,Brooklyn Daniels,Analyst,Marketing,Speciality Products,Female,Caucasian,64
+E04952,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,Female,Latino,57
+E02420,Madison Li,Director,Marketing,Manufacturing,Female,Asian,35
+E01639,Everleigh Simmons,Analyst,Finance,Manufacturing,Female,Caucasian,55
+E03947,Logan Soto,Vice President,Finance,Research & Development,Male,Latino,36
+E04535,Charlotte Vo,System Administrator ,IT,Speciality Products,Female,Asian,57
+E00380,Alice Thompson,Vice President,Accounting,Speciality Products,Female,Caucasian,48
+E01432,Peyton Garza,Systems Analyst,IT,Manufacturing,Female,Latino,53
+E02628,Nora Nelson,Analyst II,Finance,Manufacturing,Female,Caucasian,41
+E03578,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34
+E03563,Ian Barnes,Operations Engineer,Engineering,Corporate,Male,Caucasian,47
+E02781,Athena Vu,Director,Accounting,Manufacturing,Female,Asian,63
+E04739,Ruby Washington,Analyst,Marketing,Research & Development,Female,Black,65
+E02665,Bella Butler,Sr. Manger,Finance,Manufacturing,Female,Black,33
+E04132,Kinsley Henry,Director,Marketing,Manufacturing,Female,Black,45
+E00276,Kennedy Romero,Engineering Manager,Engineering,Research & Development,Female,Latino,37
+E04277,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian,60
+E03890,Everett Khan,Solutions Architect,IT,Manufacturing,Male,Asian,43
+E02012,Anna Han,System Administrator ,IT,Research & Development,Female,Asian,65
+E02881,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43
+E03750,Jordan Cho,Analyst II,Accounting,Speciality Products,Male,Asian,28
+E00605,Nova Williams,Manager,Finance,Speciality Products,Female,Black,61
+E04641,Scarlett Hill,Director,Engineering,Speciality Products,Female,Black,45
+E01019,Dominic Scott,Sr. Analyst,Sales,Corporate,Male,Caucasian,45
+E01519,Anthony Marquez,Vice President,IT,Speciality Products,Male,Latino,54
+E03694,Elena Patterson,Vice President,Finance,Speciality Products,Female,Black,38
+E01123,Madison Nelson,Director,Accounting,Corporate,Female,Caucasian,27
+E01366,William Walker,Computer Systems Manager,IT,Research & Development,Male,Black,40
+E04005,Lincoln Wong,Sr. Analyst,Finance,Corporate,Male,Asian,49
+E02770,James Huang,Manager,Human Resources,Speciality Products,Male,Asian,54
+E04018,Emery Ford,Analyst II,Marketing,Corporate,Female,Caucasian,39
+E01591,Paisley Trinh,Technical Architect,IT,Corporate,Female,Asian,57
+E04940,Hudson Williams,Vice President,Sales,Speciality Products,Male,Black,36
+E03465,Harper Phan,Analyst II,Finance,Manufacturing,Female,Asian,45
+E03870,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30
+E01927,Charles Moore,Technical Architect,IT,Manufacturing,Male,Black,34
+E03064,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian,31
+E01883,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28
+E03984,Hailey Foster,Controls Engineer,Engineering,Manufacturing,Female,Black,55
+E00446,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30
+E02825,Wyatt Li,Vice President,Engineering,Manufacturing,Male,Asian,63
+E04174,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26
+E01899,Xavier Jackson,Vice President,Marketing,Speciality Products,Male,Caucasian,52
+E02562,Christian Medina,Analyst,Marketing,Corporate,Male,Latino,51
+E01006,Autumn Leung,Vice President,Finance,Research & Development,Female,Asian,25
+E02903,Robert Vazquez,System Administrator ,IT,Corporate,Male,Latino,40
+E03642,Aria Roberts,Manager,Accounting,Corporate,Female,Caucasian,38
+E02884,Axel Johnson,Director,Human Resources,Corporate,Male,Caucasian,60
+E00701,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45
+E04720,Christopher Chung,Controls Engineer,Engineering,Corporate,Male,Asian,28
+E01985,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black,65
+E03273,Daniel Shah,Analyst II,Sales,Research & Development,Male,Asian,41
+E02415,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,Female,Latino,52
+E02877,Mila Allen,Controls Engineer,Engineering,Corporate,Female,Caucasian,56
+E00091,Emilia Chu,Analyst II,Finance,Manufacturing,Female,Asian,48
+E02563,Emily Clark,Vice President,Accounting,Corporate,Female,Caucasian,36
+E04221,Roman King,Analyst II,Finance,Corporate,Male,Caucasian,60
+E04887,Emery Do,Account Representative,Sales,Research & Development,Female,Asian,40
+E03170,Autumn Thao,Account Representative,Sales,Manufacturing,Female,Asian,63
+E01636,Naomi Coleman,Manager,Marketing,Corporate,Female,Caucasian,29
+E01387,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27
+E01363,Ayla Daniels,Technical Architect,IT,Corporate,Female,Caucasian,53
+E02249,Allison Daniels,Manager,Finance,Manufacturing,Female,Caucasian,37
+E02987,Mateo Harris,Manager,IT,Corporate,Male,Caucasian,30
+E03655,Samantha Rogers,Analyst,Marketing,Speciality Products,Female,Caucasian,28
+E04048,Julian Lee,IT Systems Architect,IT,Corporate,Male,Asian,51
+E03626,Nicholas Avila,Enterprise Architect,IT,Research & Development,Male,Latino,28
+E03694,Hailey Watson,Sr. Manger,Accounting,Corporate,Female,Black,31
+E02920,Willow Woods,Vice President,Human Resources,Speciality Products,Female,Caucasian,28
+E03220,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34
+E01347,Aiden Gonzales,Vice President,Marketing,Speciality Products,Male,Latino,44
+E03968,Joshua Chin,Sr. Manger,Marketing,Manufacturing,Male,Asian,60
+E04299,Paisley Hall,Director,Human Resources,Speciality Products,Female,Caucasian,41
+E01150,Allison Leung,Sr. Analyst,Sales,Research & Development,Female,Asian,62
+E03774,Hannah Mejia,Vice President,Marketing,Corporate,Female,Latino,47
+E01638,Elizabeth Huang,Analyst,Finance,Speciality Products,Female,Asian,62
+E01877,Abigail Garza,Analyst,Accounting,Manufacturing,Female,Latino,33
+E01193,Raelynn Lu,Director,Finance,Research & Development,Female,Asian,27
+E01789,Charles Luu,Sr. Manger,Sales,Manufacturing,Male,Asian,25
+E01422,Lydia Espinoza,Sr. Manger,Marketing,Speciality Products,Female,Latino,29
+E00440,Adeline Thao,Vice President,Finance,Corporate,Female,Asian,54
+E00145,Kinsley Dixon,Analyst,Accounting,Manufacturing,Female,Caucasian,28
+E04150,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian,54
+E02846,Julia Mai,Manager,Marketing,Manufacturing,Female,Asian,50
+E04247,Camila Evans,Manager,Marketing,Research & Development,Female,Black,55
+E02613,Everly Lai,Vice President,Marketing,Speciality Products,Female,Asian,52
+E03349,Adam He,Director,Accounting,Speciality Products,Male,Asian,35
+E03648,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black,26
+E02192,Lucy Avila,Solutions Architect,IT,Speciality Products,Female,Latino,43
+E03981,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63
+E03262,Logan Mitchell,Analyst II,Marketing,Manufacturing,Male,Caucasian,65
+E02716,Dominic Dinh,Sr. Manger,Marketing,Speciality Products,Male,Asian,45
+E00245,Lucas Daniels,Manager,Sales,Corporate,Male,Black,42
+E04123,Andrew Holmes,Vice President,IT,Speciality Products,Male,Black,59
+E03471,Julia Sandoval,Manager,Human Resources,Corporate,Female,Latino,42
+E00717,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45
+E01966,Thomas Williams,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45
+E03683,Raelynn Hong,Director,Marketing,Speciality Products,Female,Asian,28
+E03694,Eli Reed,Systems Analyst,IT,Corporate,Male,Caucasian,51
+E04766,Lyla Yoon,Vice President,Accounting,Manufacturing,Female,Asian,38
+E01465,Hannah White,Sr. Manger,Accounting,Corporate,Female,Caucasian,62
+E00206,Theodore Xi,Manager,Finance,Corporate,Male,Asian,52
+E04088,Ezra Liang,Vice President,Finance,Research & Development,Male,Asian,52
+E02066,Grayson Yee,Manager,Human Resources,Corporate,Male,Asian,48
+E03227,Eli Richardson,IT Coordinator,IT,Speciality Products,Male,Caucasian,38
+E03364,Audrey Lee,Development Engineer,Engineering,Speciality Products,Female,Asian,51
+E00607,Jameson Allen,Director,Marketing,Speciality Products,Male,Caucasian,32
+E02258,Eliza Chen,Enterprise Architect,IT,Research & Development,Female,Asian,36
+E03681,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45
+E02298,Emily Doan,Engineering Manager,Engineering,Corporate,Female,Asian,32
+E02984,Jack Mai,Sr. Analyst,Marketing,Corporate,Male,Asian,45
+E02440,Grayson Turner,Solutions Architect,IT,Corporate,Male,Caucasian,54
+E04699,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian,48
+E03579,Robert Zhang,Vice President,Marketing,Corporate,Male,Asian,45
+E01649,Eva Alvarado,Computer Systems Manager,IT,Manufacturing,Female,Latino,46
+E04969,Abigail Vang,Operations Engineer,Engineering,Research & Development,Female,Asian,40
+E00170,Claire Adams,Director,Sales,Manufacturing,Female,Black,61
+E00955,Theodore Marquez,Development Engineer,Engineering,Speciality Products,Male,Latino,54
+E00810,Hunter Nunez,Vice President,Human Resources,Corporate,Male,Latino,62
+E02798,Charles Henderson,Systems Analyst,IT,Speciality Products,Male,Caucasian,48
+E04542,Camila Cortez,Manager,Marketing,Manufacturing,Female,Latino,29
+E02818,Aaron Garza,Director,Sales,Research & Development,Male,Latino,39
+E02907,Jose Singh,Sr. Manger,Finance,Speciality Products,Male,Asian,44
+E00023,Gabriel Joseph,Director,Engineering,Manufacturing,Male,Caucasian,52
+E02391,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45
+E01429,Dylan Wilson,Network Administrator,IT,Research & Development,Male,Caucasian,48
+E00494,Robert Alvarez,Service Desk Analyst,IT,Corporate,Male,Latino,39
+E00634,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,Female,Latino,53
+E01249,Samuel Bailey,Vice President,Accounting,Speciality Products,Male,Caucasian,41
+E04683,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40
+E04732,Benjamin Ramirez,Network Engineer,IT,Research & Development,Male,Latino,48
+E03834,Anthony Carter,Director,Engineering,Speciality Products,Male,Caucasian,41
+E02923,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54
+E02642,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38
+E00981,Miles Thao,System Administrator ,IT,Corporate,Male,Asian,57
+E04157,William Cao,Sr. Analyst,Marketing,Manufacturing,Male,Asian,63
+E03528,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,Male,Asian,62
+E04547,Avery Grant,Enterprise Architect,IT,Research & Development,Female,Caucasian,49
+E04415,Penelope Fong,Director,Accounting,Corporate,Female,Asian,60
+E04484,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian,45
+E02800,Eva Estrada,Sr. Manger,Sales,Speciality Products,Female,Latino,45
+E04926,Emma Luna,Field Engineer,Engineering,Speciality Products,Female,Latino,52
+E01268,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63
+E04853,Vivian Chu,Sr. Account Representative,Sales,Research & Development,Female,Asian,46
+E01209,Jayden Williams,Manager,Human Resources,Manufacturing,Male,Caucasian,64
+E02024,Amelia Bell,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53
+E02427,Addison Mehta,Manager,Sales,Corporate,Female,Asian,27
+E00276,Alexander Jackson,Manager,Human Resources,Corporate,Male,Caucasian,45
+E00951,Everly Lin,Business Partner,Human Resources,Manufacturing,Female,Asian,25
+E03248,Lyla Stewart,Sr. Manger,IT,Speciality Products,Female,Caucasian,43
+E04444,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,Female,Latino,61
+E02307,Skylar Evans,Director,Accounting,Research & Development,Female,Caucasian,42
+E02375,Lincoln Huynh,Sr. Manger,Finance,Manufacturing,Male,Asian,63
+E02276,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian,32
+E02649,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino,27
+E00503,Leah Patterson,Manager,Human Resources,Research & Development,Female,Caucasian,33
+E01706,Avery Sun,Operations Engineer,Engineering,Manufacturing,Female,Asian,45
+E00676,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41
+E02005,Isabella Bui,Enterprise Architect,IT,Manufacturing,Female,Asian,36
+E01895,Gabriel Zhou,IT Coordinator,IT,Manufacturing,Male,Asian,25
+E01396,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian,43
+E00749,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian,37
+E01941,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian,42
+E01413,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,Female,Black,60
+E03928,Miles Dang,IT Coordinator,IT,Speciality Products,Male,Asian,61
+E04109,Leah Bryant,IT Coordinator,IT,Manufacturing,Female,Caucasian,55
+E03994,Henry Jung,Automation Engineer,Engineering,Manufacturing,Male,Asian,57
+E00639,Benjamin Mai,System Administrator ,IT,Corporate,Male,Asian,54
+E00608,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29
+E04189,Ariana Kim,Network Architect,IT,Manufacturing,Female,Asian,33
+E02732,Alice Tran,Analyst,Marketing,Corporate,Female,Asian,39
+E00324,Hailey Song,Manager,Finance,Research & Development,Female,Asian,37
+E00518,Lydia Morales,Manager,Finance,Speciality Products,Female,Latino,51
+E01286,Liam Sanders,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46
+E04564,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,Male,Latino,41
+E02033,Grace Sun,Director,Finance,Research & Development,Female,Asian,25
+E00412,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian,37
+E01844,Jayden Kang,Analyst,Finance,Research & Development,Male,Asian,46
+E00667,Skylar Shah,Field Engineer,Engineering,Manufacturing,Female,Asian,42
+E02639,Sebastian Le,Analyst,Finance,Corporate,Male,Asian,37
+E00287,Luca Nelson,Manager,Finance,Speciality Products,Male,Caucasian,60
+E02235,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52
+E02720,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,Male,Asian,59
+E03583,Kayden Jordan,Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48
+E01188,Alexander James,Sr. Manger,Human Resources,Manufacturing,Male,Caucasian,42
+E02428,Connor Luu,Computer Systems Manager,IT,Speciality Products,Male,Asian,35
+E03289,Christopher Lam,Vice President,Accounting,Manufacturing,Male,Asian,64
+E01947,Sophie Owens,Analyst II,Finance,Research & Development,Female,Caucasian,30
+E02024,Addison Perez,Operations Engineer,Engineering,Speciality Products,Female,Latino,29
+E04249,Hadley Dang,Vice President,Accounting,Corporate,Female,Asian,47
+E01090,Ethan Mehta,Director,Sales,Research & Development,Male,Asian,49
+E03830,Madison Her,Technical Architect,IT,Speciality Products,Female,Asian,56
+E04363,Savannah Singh,Director,Marketing,Speciality Products,Female,Asian,53
+E04920,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,Female,Asian,32
+E03866,Jordan Zhu,Sr. Manger,Marketing,Manufacturing,Male,Asian,32
+E03521,Jackson Navarro,Director,Sales,Corporate,Male,Latino,52
+E04095,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38
+E04079,Christopher Butler,Network Architect,IT,Manufacturing,Male,Caucasian,41
+E01508,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,Female,Latino,49
+E02259,Emily Lau,Sr. Analyst,Finance,Manufacturing,Female,Asian,35
+E04972,Sophie Oh,Network Engineer,IT,Corporate,Female,Asian,29
+E01834,Chloe Allen,Solutions Architect,IT,Manufacturing,Female,Caucasian,64
+E03124,Caleb Nelson,Director,Marketing,Corporate,Male,Caucasian,33
+E01898,Oliver Moua,IT Systems Architect,IT,Corporate,Male,Asian,29
+E00342,Wesley Doan,Manager,Finance,Corporate,Male,Asian,63
+E03910,Nova Hsu,Manager,Human Resources,Speciality Products,Female,Asian,32
+E00862,Levi Moreno,Systems Analyst,IT,Research & Development,Male,Latino,64
+E02576,Gianna Ha,Manager,IT,Research & Development,Female,Asian,55
+E00035,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43
+E01832,Ezra Singh,Analyst,Finance,Manufacturing,Male,Asian,56
+E01755,Audrey Patel,Sr. Manger,Finance,Speciality Products,Female,Asian,37
+E00465,Brooklyn Cho,Technical Architect,IT,Manufacturing,Female,Asian,45
+E02391,Piper Ramos,Sr. Manger,Sales,Manufacturing,Female,Latino,49
+E04697,Eleanor Williams,Enterprise Architect,IT,Speciality Products,Female,Caucasian,61
+E00371,Melody Grant,Quality Engineer,Engineering,Corporate,Female,Caucasian,41
+E02992,Paisley Sanders,Sr. Manger,Marketing,Speciality Products,Female,Caucasian,55
+E04369,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27
+E00592,Josephine Richardson,System Administrator ,IT,Manufacturing,Female,Caucasian,57
+E03532,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,Male,Latino,56
+E00863,Lincoln Ramos,Operations Engineer,Engineering,Corporate,Male,Latino,59
+E03310,Dylan Campbell,Director,Engineering,Speciality Products,Male,Caucasian,45
+E01883,Olivia Gray,Manager,Marketing,Research & Development,Female,Black,42
+E01242,Emery Doan,Controls Engineer,Engineering,Corporate,Female,Asian,25
+E02535,Caroline Perez,Controls Engineer,Engineering,Corporate,Female,Latino,29
+E00369,Genesis Woods,Manager,Human Resources,Speciality Products,Female,Black,33
+E03332,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50
+E03278,Nevaeh James,Solutions Architect,IT,Speciality Products,Female,Caucasian,45
+E02492,Parker Sandoval,Manager,Human Resources,Speciality Products,Male,Latino,59
+E03055,Austin Rojas,Vice President,Finance,Corporate,Male,Latino,29
+E01943,Vivian Espinoza,Sr. Manger,Sales,Corporate,Female,Latino,52
+E01388,Cooper Gupta,Business Partner,Human Resources,Speciality Products,Male,Asian,58
+E00717,Axel Santos,Sr. Analyst,Accounting,Speciality Products,Male,Latino,62
+E04637,Samuel Song,Director,Sales,Corporate,Male,Asian,31
+E03240,Aiden Silva,Vice President,IT,Research & Development,Male,Latino,42
+E00340,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian,56
+E04751,Grayson James,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54
+E04636,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian,54
+E00568,Ian Vargas,Analyst,Sales,Manufacturing,Male,Latino,26
+E02938,John Trinh,Director,Marketing,Corporate,Male,Asian,49
+E00555,Sofia Trinh,Network Architect,IT,Speciality Products,Female,Asian,45
+E01111,Santiago f Moua,Sr. Manger,Human Resources,Corporate,Male,Asian,45
+E03149,Layla Collins,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26
+E00952,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59
+E04380,Naomi Washington,Manager,IT,Speciality Products,Female,Caucasian,51
+E04095,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,45
+E04994,Bella Holmes,Director,Accounting,Research & Development,Female,Caucasian,35
+E00447,Hailey Sanchez,Vice President,Marketing,Corporate,Female,Latino,32
+E00089,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,Female,Asian,37
+E02035,Eli Rahman,Service Desk Analyst,IT,Manufacturing,Male,Asian,45
+E03595,Christopher Howard,Enterprise Architect,IT,Speciality Products,Male,Caucasian,61
+E03611,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45
+E04464,Cooper Yoon,Engineering Manager,Engineering,Research & Development,Male,Asian,60
+E02135,John Delgado,Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30
+E01684,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64
+E02968,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino,25
+E03362,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61
+E01108,Hannah Martinez,Manager,Marketing,Manufacturing,Female,Latino,65
+E02217,William Phillips,Network Architect,IT,Corporate,Male,Black,61
+E03519,Eliza Zheng,Computer Systems Manager,IT,Speciality Products,Female,Asian,48
+E01967,John Dang,Director,Sales,Corporate,Male,Asian,58
+E01125,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian,34
+E03795,Hazel Young,Sr. Manger,Sales,Speciality Products,Female,Black,30
+E00508,Thomas Jung,Sr. Analyst,Accounting,Research & Development,Male,Asian,50
+E02047,Xavier Perez,Sr. Analyst,Sales,Manufacturing,Male,Latino,51
+E01582,Elijah Coleman,Sr. Manger,Sales,Research & Development,Male,Caucasian,53
+E02563,Clara Sanchez,Controls Engineer,Engineering,Corporate,Female,Latino,47
+E04872,Isaac Stewart,Director,Marketing,Speciality Products,Male,Caucasian,25
+E03159,Claire Romero,Vice President,Marketing,Manufacturing,Female,Latino,37
+E01337,Andrew Coleman,Director,Finance,Corporate,Male,Caucasian,41
+E00102,Riley Rojas,Network Architect,IT,Speciality Products,Female,Latino,36
+E03637,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25
+E03455,Hadley Ford,Systems Analyst,IT,Research & Development,Female,Caucasian,52
+E03354,Austin Brown,Director,Marketing,Research & Development,Male,Caucasian,48
+E01225,Christian Fong,Manager,Sales,Research & Development,Male,Asian,49
+E01264,Hazel Alvarez,Business Partner,Human Resources,Research & Development,Female,Latino,62
+E02274,Isabella Bailey,Network Administrator,IT,Manufacturing,Female,Caucasian,36
+E02848,Lincoln Huynh,System Administrator ,IT,Research & Development,Male,Asian,55
+E00480,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31
+E00203,Julia Doan,Business Partner,Human Resources,Speciality Products,Female,Asian,53
+E00647,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27
+E03296,Eloise Trinh,Solutions Architect,IT,Speciality Products,Female,Asian,39
+E02453,Dylan Kumar,Sr. Analyst,Marketing,Speciality Products,Male,Asian,55
+E00647,Emily Gupta,HRIS Analyst,Human Resources,Corporate,Female,Asian,44
+E02522,Silas Rivera,Vice President,Sales,Corporate,Male,Latino,48
+E00459,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black,48
+E03007,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian,54
+E04035,Hailey Lai,Sr. Manger,Finance,Manufacturing,Female,Asian,42
+E00952,Leilani Thao,Director,Human Resources,Speciality Products,Female,Asian,38
+E03863,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black,40
+E02710,Silas Huang,Engineering Manager,Engineering,Research & Development,Male,Asian,57
+E01895,Peyton Walker,Analyst,Marketing,Research & Development,Female,Caucasian,43
+E01339,Jeremiah Hernandez,Network Engineer,IT,Manufacturing,Male,Latino,26
+E02938,Jace Washington,Manager,Accounting,Research & Development,Male,Caucasian,44
+E03379,Landon Kim,Manager,Human Resources,Speciality Products,Male,Asian,50
+E02153,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino,26
+E00994,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian,29
+E00943,Elena Mendoza,Director,Sales,Speciality Products,Female,Latino,27
+E00869,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33
+E03457,Ivy Desai,Controls Engineer,Engineering,Research & Development,Female,Asian,59
+E02193,Josephine Acosta,Director,Human Resources,Speciality Products,Female,Latino,40
+E00577,Nora Nunez,Analyst II,Finance,Research & Development,Female,Latino,45
+E00538,Caleb Xiong,Sr. Account Representative,Sales,Corporate,Male,Asian,38
+E01415,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32
+E00717,Madelyn Chan,Manager,Sales,Speciality Products,Female,Asian,64
+E00225,Angel Delgado,Director,Finance,Corporate,Male,Latino,31
+E02889,Mia Herrera,Director,Marketing,Research & Development,Female,Latino,43
+E04978,Peyton Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian,45
+E04163,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32
+E01652,Avery Dominguez,Sr. Manger,Sales,Corporate,Female,Latino,27
+E00880,Grace Carter,Sr. Manger,Human Resources,Speciality Products,Female,Black,25
+E04335,Parker Allen,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31
+E01300,Sadie Lee,Sr. Manger,Marketing,Corporate,Female,Asian,65
+E03102,Cooper Valdez,Manager,Sales,Corporate,Male,Latino,50
+E04089,Sebastian Fong,Sr. Manger,IT,Manufacturing,Male,Asian,46
+E02059,Roman Munoz,Sr. Manger,Sales,Speciality Products,Male,Latino,54
+E03894,Charlotte Chang,Manager,Sales,Research & Development,Female,Asian,50
+E03106,Xavier Davis,Vice President,Finance,Corporate,Male,Caucasian,36
+E01350,Natalie Carter,Director,Finance,Corporate,Female,Caucasian,64
+E02900,Elena Richardson,Manager,Accounting,Manufacturing,Female,Caucasian,34
+E02202,Emilia Bailey,Vice President,Accounting,Speciality Products,Female,Caucasian,41
+E02696,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25
+E01722,Asher Huynh,Manager,IT,Manufacturing,Male,Asian,45
+E04562,Kinsley Martinez,Director,Human Resources,Speciality Products,Female,Latino,52
+E00640,Paisley Bryant,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37
+E02554,Joshua Ramirez,Vice President,Human Resources,Corporate,Male,Latino,44
+E03412,Joshua Martin,Sr. Manger,Human Resources,Research & Development,Male,Black,42
+E00646,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian,49
+E04670,Angel Do,IT Systems Architect,IT,Speciality Products,Male,Asian,34
+E03580,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino,39
+E00446,Isaac Han,Vice President,Human Resources,Speciality Products,Male,Asian,31
+E02363,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,Female,Asian,36
+E03718,Zoe Zhou,Manager,Finance,Corporate,Female,Asian,61
+E01749,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian,29
+E02888,Elijah Ramos,Sr. Manger,IT,Speciality Products,Male,Latino,33
+E01338,Jaxson Coleman,Manager,Finance,Manufacturing,Male,Caucasian,32
+E03000,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian,33
+E01611,Gabriella Zhu,Computer Systems Manager,IT,Speciality Products,Female,Asian,36
+E02684,Aaron Maldonado,Analyst II,Finance,Manufacturing,Male,Latino,39
+E02561,Samantha Vargas,Director,Human Resources,Corporate,Female,Latino,53
+E03168,Nora Le,Sr. Manger,IT,Manufacturing,Female,Asian,53
+E00758,Alice Roberts,Director,Human Resources,Manufacturing,Female,Caucasian,54
+E03691,Colton Garcia,Solutions Architect,IT,Speciality Products,Male,Latino,55
+E01488,Stella Lai,Sr. Analyst,Accounting,Manufacturing,Female,Asian,44
+E04415,Leonardo Luong,Manager,Finance,Manufacturing,Male,Asian,52
+E03278,Nicholas Wong,Director,Sales,Research & Development,Male,Asian,27
+E00282,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino,58
+E03305,Cooper Jiang,Analyst II,Accounting,Corporate,Male,Asian,49
+E00559,Penelope Silva,Network Architect,IT,Speciality Products,Female,Latino,36
+E02558,Jose Richardson,Director,Marketing,Research & Development,Male,Caucasian,26
+E00956,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37
+E03858,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47
+E02221,Julian Delgado,Systems Analyst,IT,Speciality Products,Male,Latino,29
+E00126,Isabella Scott,Network Administrator,IT,Research & Development,Female,Caucasian,58
+E02627,Parker Avila,Analyst II,Marketing,Manufacturing,Male,Latino,47
+E03778,Luke Vu,Sr. Manger,Marketing,Speciality Products,Male,Asian,52
+E00481,Jameson Nelson,Network Architect,IT,Research & Development,Male,Caucasian,61
+E02833,Adrian Fernandez,Systems Analyst,IT,Research & Development,Male,Latino,45
+E03902,Madison Hunter,Network Administrator,IT,Corporate,Female,Caucasian,40
+E02310,Jordan Phillips,Vice President,Human Resources,Corporate,Male,Black,45
+E02661,Maya Chan,Controls Engineer,Engineering,Speciality Products,Female,Asian,37
+E00836,Wesley King,Manager,Accounting,Manufacturing,Male,Caucasian,57
+E00682,Sofia Fernandez,Manager,Accounting,Manufacturing,Female,Latino,44
+E00287,Maverick Figueroa,IT Systems Architect,IT,Corporate,Male,Latino,48
+E00785,Hannah Hoang,Manager,Accounting,Speciality Products,Female,Asian,25
+E04598,Violet Garcia,Sr. Analyst,Marketing,Speciality Products,Female,Latino,35
+E03247,Aaliyah Mai,Vice President,IT,Speciality Products,Female,Asian,57
+E02703,Austin Vang,Manager,Marketing,Speciality Products,Male,Asian,49
+E02191,Maria Sun,Director,Sales,Corporate,Female,Asian,25
+E00156,Madelyn Scott,Sr. Manger,IT,Research & Development,Female,Caucasian,46
+E03349,Dylan Chin,Director,Finance,Corporate,Male,Asian,60
+E04032,Emery Zhang,Field Engineer,Engineering,Corporate,Female,Asian,45
+E00005,Riley Washington,Director,Sales,Speciality Products,Female,Caucasian,39
+E04354,Raelynn Rios,Vice President,Sales,Manufacturing,Female,Latino,43
+E01578,Anthony Hong,Sr. Manger,IT,Research & Development,Male,Asian,37
+E03430,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48
+E03058,Robert Wright,Technical Architect,IT,Manufacturing,Male,Caucasian,30
+E04762,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46
+E01148,Scarlett Kumar,Systems Analyst,IT,Corporate,Female,Asian,55
+E03094,Wesley Young,Sr. Analyst,Marketing,Speciality Products,Male,Caucasian,33
+E01909,Lillian Khan,Analyst,Finance,Speciality Products,Female,Asian,44
+E04398,Oliver Yang,Director,Marketing,Speciality Products,Male,Asian,31
+E02521,Lily Nguyen,Sr. Analyst,Finance,Speciality Products,Female,Asian,33
+E03545,Sofia Cheng,Vice President,Accounting,Corporate,Female,Asian,63
