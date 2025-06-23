@@ -10,7 +10,7 @@ public record EmployeeDto(
         String businessUnit,
         String gender,
         String ethnicity,
-        String age
+        int age
 ) {
 
 }

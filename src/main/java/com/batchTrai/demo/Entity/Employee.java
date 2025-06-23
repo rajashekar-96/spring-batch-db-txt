@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-@Table(name="Employee_details")
+@Table(name="Employee")
 public class Employee {
 
     @Id
@@ -24,5 +24,5 @@ public class Employee {
     private String businessUnit;
     private String gender;
     private String ethnicity;
-    private String age;
+    private int age;
 }

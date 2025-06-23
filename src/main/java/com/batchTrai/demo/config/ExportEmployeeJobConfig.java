@@ -36,7 +36,7 @@ public class ExportEmployeeJobConfig {
 
     @Bean
     public JdbcCursorItemReader<EmployeeDto> employeeDtoJdbcCursorItemReader() {
-        String sql = "SELECT * FROM Employee_details";
+        String sql = "SELECT * FROM EMPLOYEE";
         return new JdbcCursorItemReaderBuilder<EmployeeDto>()
                 .name("Employee Details")
                 .dataSource(dataSource)
@@ -48,22 +48,26 @@ public class ExportEmployeeJobConfig {
 
     @Bean
     public FlatFileItemWriter<Employee> flatFileItemWriter() {
+        CustomLineAggregator aggregator = new CustomLineAggregator();
+
         return new FlatFileItemWriterBuilder<Employee>()
-                .name("Employee File Writter")
-                .resource(new FileSystemResource("employee.txt"))
-                .headerCallback(writer -> writer.append("Header of file"))
-                .delimited()
-                .delimiter(";")
-                .sourceType(Employee.class)
-                .names("employeeId", "fullName", "jobTitle", "department", "businessUnit", "gender", "ethnicity", "age")
-                .append(Boolean.TRUE)
+                .name("Employee File Writer")
+                .resource(new FileSystemResource("D:/Code/java/spring-batch-db-txt/src/main/resources/employee.txt"))
+                .lineAggregator(aggregator)
+                .footerCallback(writer -> {
+                    String footer = aggregator.getFooter();
+                    if (!footer.isEmpty()) {
+                        writer.write(footer);
+                    }
+                })
+                .append(false)
                 .build();
     }
 
     @Bean
     public Step fromEmployeeToFile() {
         return new StepBuilder("from DB to File",jobRepository)
-                .<EmployeeDto, Employee>chunk(100, platformTransactionManager)
+                .<EmployeeDto, Employee>chunk(5, platformTransactionManager)
                 .reader(employeeDtoJdbcCursorItemReader())
                 .processor(employeeProcessor)
                 .writer(flatFileItemWriter())
